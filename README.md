@@ -4,14 +4,14 @@
 
 (11/14/2018) Updated to v10.2
 ------
-⋅⋅* V-Staking is now active (V-Hub stats coming soon)
-⋅⋅* STEX Fundraising page has been added
-⋅⋅* Export all private keys to CSV file
-⋅⋅* Error on Transaction size too large (now recommends max tx)
-⋅⋅* PIN field on login has been set to private
-⋅⋅* Eco Friendly Chat Updates
-⋅⋅* Can now view all tx history per address on Vidulum
-⋅⋅* Terms of Service Updated (please read)
+..* V-Staking is now active (V-Hub stats coming soon)
+..* STEX Fundraising page has been added
+..* Export all private keys to CSV file
+..* Error on Transaction size too large (now recommends max tx)
+..* PIN field on login has been set to private
+..* Eco Friendly Chat Updates
+..* Can now view all tx history per address on Vidulum
+..* Terms of Service Updated (please read)
 
 
 
