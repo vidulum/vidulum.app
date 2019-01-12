@@ -2,6 +2,29 @@
 
 
 
+(01/10/2019) Updated to v10.4
+------
+  * Login Two Factor Authentication Added
+  * Vidulum Masternode Monitoring
+  * Added Settings Menu
+  * Appearance Customization
+  * Removed Challenges
+  * Option to stop auto logout
+  * Added RitoCoin (RITO)
+
+
+
+(11/21/2018) Updated to v10.3
+------
+  * V-Hub stats are now being added
+  * Updated Zencash to Horizen
+  * Added Ravencoin (RVN)
+  * VDL price API added
+  * V-Staking active indicator
+  * Optimized transactions table for mobile
+  
+  
+
 (11/14/2018) Updated to v10.2
 ------
   * V-Staking is now active (V-Hub stats coming soon)
