@@ -1,8 +1,14 @@
 # vidulum.app
 
 
+(01/28/2019) Updated to v10.6
+------
+  * Import/ Balance Transfers Feature
+  * CMM V-Staking now live
 
-(01/18/2019) Updated to v10.4
+
+
+(01/18/2019) Updated to v10.5
 ------
   * Commercium Masternode Monitoring
   * Commercium Updated to support fork
