@@ -1,4 +1,4 @@
-# vidulum.app
+# wallet.vidulum.app
 
 (03/11/2019) Updated to v10.7
 ------
