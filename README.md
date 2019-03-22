@@ -1,5 +1,15 @@
 # vidulum.app
 
+(03/11/2019) Updated to v10.7
+------
+  * Listed Komodo (KMD)
+  * Listed Veruscoin (VRSC)
+  * Portfolio Overview
+  * Charts
+  * Tools
+  * Email Control
+  
+
 
 (01/28/2019) Updated to v10.6
 ------
