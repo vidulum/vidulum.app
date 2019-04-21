@@ -1,5 +1,16 @@
 # wallet.vidulum.app
 
+(04/21/2019) Updated to v10.8
+------
+  * Listed 3DCoin (3DC)
+  * Listed BZEdge (BZE)
+  * Listed Bithereum (BTH)
+  * Send to multiple wallets
+  * Added Price Charting for Verus
+  * Point of Sale continued development
+
+
+
 (03/11/2019) Updated to v10.7
 ------
   * Listed Komodo (KMD)
